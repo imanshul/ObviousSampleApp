@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Obvious Sample</string>
+    <string name="transition_name">MyTransitionView</string>
+</resources>
